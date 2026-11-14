@@ -63,3 +63,7 @@ product-craft/
 ```
 
 To add a skill, create `skills/<name>/SKILL.md` with `name` and `description` in its frontmatter. Put longer reference material in `references/` and say in SKILL.md when to read it.
+
+## License
+
+[MIT](LICENSE)

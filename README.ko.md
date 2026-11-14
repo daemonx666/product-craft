@@ -63,3 +63,7 @@ product-craft/
 ```
 
 skill을 추가하려면 `skills/<name>/SKILL.md`를 만들고 frontmatter에 `name`과 `description`을 적습니다. 긴 참고 자료는 `references/`에 두고, 언제 읽어야 하는지 SKILL.md에 적어 주세요.
+
+## 라이선스
+
+[MIT](LICENSE)

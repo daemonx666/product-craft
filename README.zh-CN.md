@@ -63,3 +63,7 @@ product-craft/
 ```
 
 新增 skill：创建 `skills/<name>/SKILL.md`，在 frontmatter 里写 `name` 和 `description`。较长的参考资料放进 `references/`，并在 SKILL.md 里写明什么时候去读。
+
+## 许可证
+
+[MIT](LICENSE)

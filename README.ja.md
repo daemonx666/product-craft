@@ -63,3 +63,7 @@ product-craft/
 ```
 
 skill を追加するには、`skills/<name>/SKILL.md` を作成し、frontmatter に `name` と `description` を書きます。長い参考資料は `references/` に置き、いつ読むべきかを SKILL.md に書いてください。
+
+## ライセンス
+
+[MIT](LICENSE)

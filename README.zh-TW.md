@@ -63,3 +63,7 @@ product-craft/
 ```
 
 新增 skill：建立 `skills/<name>/SKILL.md`，在 frontmatter 裡寫 `name` 和 `description`。較長的參考資料放進 `references/`，並在 SKILL.md 裡寫明什麼時候去讀。
+
+## 授權條款
+
+[MIT](LICENSE)
