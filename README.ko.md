@@ -39,7 +39,7 @@ AI 코딩에서 가장 큰 낭비는 요구사항을 잘못 추측하는 데서 
 ## 설치
 
 ```bash
-git clone https://github.com/felix-xqs/product-craft.git
+git clone https://github.com/daemonx666/product-craft.git
 cd product-craft
 ./install.sh
 ```

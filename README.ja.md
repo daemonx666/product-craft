@@ -39,7 +39,7 @@ AI によるコーディングで最も無駄が出るのは、要件の推測�
 ## インストール
 
 ```bash
-git clone https://github.com/felix-xqs/product-craft.git
+git clone https://github.com/daemonx666/product-craft.git
 cd product-craft
 ./install.sh
 ```

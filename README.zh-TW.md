@@ -39,7 +39,7 @@ AI 寫程式時最大的浪費是猜錯需求。`spec` 在寫程式之前用少�
 ## 安裝
 
 ```bash
-git clone https://github.com/felix-xqs/product-craft.git
+git clone https://github.com/daemonx666/product-craft.git
 cd product-craft
 ./install.sh
 ```
